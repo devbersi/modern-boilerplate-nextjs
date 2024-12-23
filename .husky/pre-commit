@@ -1,0 +1,2 @@
+# Comandos para executar antes do commit
+npm run lint && npm run format
